@@ -1,6 +1,6 @@
 # Api z katalogiem subskrybentów
 
-Api przechowuje baze subskrybentów, informacje o nazwie, stanu subskrybcji oraz jej dacie.
+Api przechowuje baze subskrybentów, informacje o nazwie, stanie subskrybcji oraz jej dacie.
 
 ![alt text](http://g.recordit.co/JivNoSBcF8.gif)
 
